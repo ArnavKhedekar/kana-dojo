@@ -245,17 +245,101 @@
     "character": "Ichigo Kurosaki"
   },
   {
-  "japanese": "大丈夫、僕最強だから",
-  "romaji": "Daijoubu, boku saikyou dakara",
-  "english": "Relax, I'm the strongest.",
-  "anime": "Jujutsu Kaisen",
-  "character": "Satoru Gojo"
+    "japanese": "大丈夫、僕最強だから",
+    "romaji": "Daijoubu, boku saikyou dakara",
+    "english": "Relax, I'm the strongest.",
+    "anime": "Jujutsu Kaisen",
+    "character": "Satoru Gojo"
   },
   {
-  "japanese": "マママママ",
-  "romaji": "Mama mama mama",
-  "english": "Mama mama mama. (alt wording 29)",
+    "japanese": "マママママ",
+    "romaji": "Mama mama mama",
+    "english": "Mama mama mama. (alt wording 29)",
+    "anime": "One Piece",
+    "character": "Charlotte Linlin (Big Mom)"
+  },
+  {
+    "japanese": "やれやれだぜ",
+    "romaji": "Yare yare da ze",
+    "english": "Good grief",
+    "anime": "JoJo's Bizarre Adventure",
+    "character": "Jotaro Kujo"
+  },
+  {
+    "japanese": "俺は漢",
+    "romaji": "Ore wa otoko da",
+    "english": "I am a man",
+    "anime": "Gintama",
+    "character": "Gintoki"
+  },
+  {
+    "japanese": "興味ない",
+    "romaji": "Kyoumi nai",
+    "english": "Not interested",
+    "anime": "One Punch Man",
+    "character": "Saitama"
+  },
+  {
+    "japanese": "勝敗は兵家の常",
+    "romaji": "Shouhai wa heika no tsune",
+    "english": "Victory and defeat are common",
+    "anime": "Code Geass",
+    "character": "Lelouch"
+  },
+  {
+    "japanese": " демон",
+    "romaji": "Demon",
+    "english": "Demon",
+    "anime": "Demon Slayer",
+    "character": "Tanjiro"
+  },
+  {
+    "japanese": "諦めないってばよ!",
+    "romaji": "Akiramenai tte bayo!",
+    "english": "I never give up, believe it! (alt wording 33) (alt wording 85)",
+    "anime": "Naruto",
+    "character": "Naruto Uzumaki"
+  },
+  {
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity! (alt wording 14)",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  },
+  {
+    "japanese": "シシシシシ",
+    "romaji": "Shishishishi",
+    "english": "Shishishi! (alt wording 30)",
+    "anime": "One Piece",
+    "character": "Monkey D. Luffy"
+  },
+  {
+    "japanese": "貴様ッ！見ているなッ！！",
+    "romaji": "Kisama! Mite iru na!!",
+    "english": "You! You're watching me! (alt wording 11) (alt wording 63)",
+    "anime": "JoJo's Bizarre Adventure: Stone Ocean",
+    "character": "Jolyne Cujoh"
+  },
+  {
+    "japanese": "ほう…向かってくるのか",
+    "romaji": "Ho... mukatte kuru no ka",
+    "english": "Oh? You're approaching me? (alt wording 3) (alt wording 55)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "DIO"
+  },
+  {
+  "japanese": "フランキーの兄弟をコーティングしてる船大工か！",
+  "romaji": "Franky no kyoudai o coating shiteru funadaiku ka!",
+  "english": "So he's a shipwright who's coating Franky's brother!",
   "anime": "One Piece",
-  "character": "Charlotte Linlin (Big Mom)"
+  "character": "Monkey D. Luffy"
+},
+{
+"japanese": "無駄無駄無駄無駄無駄！",
+"romaji": "Muda muda muda muda muda!",
+"english": "Useless! Useless! Useless! (alt wording 7) (alt wording 59)",
+"anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+"character": "DIO"
 }
 ]
